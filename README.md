@@ -1,4 +1,4 @@
-# scrapy-smartproxy
+# scrapyx-smartproxy
 
 SmartProxy middleware for Scrapy (http://scrapy.org/)
 
@@ -14,6 +14,10 @@ Install
 Checkout the source and run
 
     python setup.py install
+
+Or
+
+    pip install scrapyx-smartproxy
 
 
 settings.py
